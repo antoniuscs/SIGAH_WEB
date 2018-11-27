@@ -1,0 +1,62 @@
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon/Flaticon.eot");
+  src: url("../fonts/flaticon/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon/Flaticon.woff") format("woff"),
+       url("../fonts/flaticon/Flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 60px;
+font-style: normal;
+}
+
+.flaticon-001-alarm:before { content: "\f100"; }
+.flaticon-002-vending-machine:before { content: "\f101"; }
+.flaticon-003-hotel-5:before { content: "\f102"; }
+.flaticon-004-travel-1:before { content: "\f103"; }
+.flaticon-005-swimming-pool:before { content: "\f104"; }
+.flaticon-006-room:before { content: "\f105"; }
+.flaticon-007-spa:before { content: "\f106"; }
+.flaticon-008-room-service:before { content: "\f107"; }
+.flaticon-009-safe-box:before { content: "\f108"; }
+.flaticon-010-hotel-4:before { content: "\f109"; }
+.flaticon-011-restaurant:before { content: "\f10a"; }
+.flaticon-012-pet:before { content: "\f10b"; }
+.flaticon-013-hotel-3:before { content: "\f10c"; }
+.flaticon-014-luggage:before { content: "\f10d"; }
+.flaticon-015-hotel-2:before { content: "\f10e"; }
+.flaticon-016-laundry:before { content: "\f10f"; }
+.flaticon-017-key-card:before { content: "\f110"; }
+.flaticon-018-jacuzzi:before { content: "\f111"; }
+.flaticon-019-staff:before { content: "\f112"; }
+.flaticon-020-gym:before { content: "\f113"; }
+.flaticon-021-reception:before { content: "\f114"; }
+.flaticon-022-wifi:before { content: "\f115"; }
+.flaticon-023-hotel-1:before { content: "\f116"; }
+.flaticon-024-fax:before { content: "\f117"; }
+.flaticon-025-double-bed:before { content: "\f118"; }
+.flaticon-026-customer:before { content: "\f119"; }
+.flaticon-027-coffee:before { content: "\f11a"; }
+.flaticon-028-hotel:before { content: "\f11b"; }
+.flaticon-029-check-in:before { content: "\f11c"; }
+.flaticon-030-car:before { content: "\f11d"; }
+.flaticon-031-breakfast:before { content: "\f11e"; }
+.flaticon-032-booking:before { content: "\f11f"; }
+.flaticon-033-bar:before { content: "\f120"; }
+.flaticon-034-travel:before { content: "\f121"; }
+.flaticon-035-air-conditioner:before { content: "\f122"; }
+.flaticon-036-security:before { content: "\f123"; }
